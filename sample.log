@@ -1,0 +1,487 @@
+2026-03-02T08:00:35Z auth-node-2 user=user25 src=10.1.2.131 method=SecurID result=OK
+2026-03-02T08:00:58Z auth-node-3 user=user03 src=10.1.4.48 method=SecurID result=OK
+2026-03-02T08:01:25Z auth-node-3 user=user23 src=10.1.5.37 method=SecurID result=OK
+2026-03-02T08:02:03Z auth-node-3 user=user39 src=10.1.2.16 method=SecurID result=OK
+2026-03-02T08:04:45Z auth-node-3 user=user20 src=10.1.3.165 method=SecurID result=OK
+2026-03-02T08:06:24Z auth-node-3 user=user19 src=10.1.5.105 method=SecurID result=OK
+2026-03-02T08:07:42Z auth-node-1 user=user10 src=10.1.8.34 method=SecurID result=OK
+2026-03-02T08:08:06Z auth-node-1 user=user36 src=10.1.3.174 method=SecurID result=OK
+2026-03-02T08:08:18Z auth-node-1 user=user17 src=10.1.4.200 method=SecurID result=OK
+2026-03-02T08:10:04Z auth-node-3 user=user33 src=10.1.9.58 method=SecurID result=OK
+2026-03-02T08:10:12Z auth-node-2 user=user12 src=10.1.1.48 method=SecurID result=OK
+2026-03-02T08:10:17Z auth-node-3 user=user35 src=10.1.4.135 method=SecurID result=OK
+2026-03-02T08:12:17Z auth-node-2 user=user20 src=10.1.4.31 method=SecurID result=OK
+2026-03-02T08:13:44Z auth-node-2 user=user14 src=10.1.5.77 method=SecurID result=OK
+2026-03-02T08:13:46Z auth-node-2 user=user12 src=10.1.4.50 method=SecurID result=OK
+2026-03-02T08:15:17Z auth-node-2 user=user14 src=10.1.5.138 method=SecurID result=OK
+2026-03-02T08:17:03Z auth-node-2 user=user34 src=10.1.2.98 method=SecurID result=OK
+2026-03-02T08:18:48Z auth-node-2 user=user14 src=10.1.6.56 method=SecurID result=OK
+2026-03-02T08:18:48Z auth-node-3 user=user06 src=10.1.5.132 method=SecurID result=OK
+2026-03-02T08:20:27Z auth-node-2 user=user22 src=10.1.3.21 method=SecurID result=OK
+2026-03-02T08:22:51Z auth-node-1 user=user24 src=10.1.2.106 method=SecurID result=OK
+2026-03-02T08:25:29Z auth-node-1 user=user38 src=10.1.6.61 method=SecurID result=OK
+2026-03-02T08:28:18Z auth-node-3 user=user04 src=10.1.3.110 method=SecurID result=OK
+2026-03-02T08:28:42Z auth-node-1 user=user01 src=10.1.3.147 method=SecurID result=OK
+2026-03-02T08:29:38Z auth-node-3 user=user25 src=10.1.3.16 method=SecurID result=OK
+2026-03-02T08:29:41Z auth-node-1 user=user02 src=10.1.3.116 method=SecurID result=OK
+2026-03-02T08:30:00Z auth-node-3 user=user26 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:30:15Z auth-node-1 user=user25 src=10.1.9.181 method=SecurID result=OK
+2026-03-02T08:30:55Z auth-node-2 user=user18 src=10.1.7.112 method=SecurID result=OK
+2026-03-02T08:31:40Z auth-node-3 user=user14 src=10.1.1.32 method=SecurID result=OK
+2026-03-02T08:31:52Z auth-node-1 user=user01 src=10.1.9.178 method=SecurID result=OK
+2026-03-02T08:32:11Z auth-node-1 user=user19 src=10.1.3.199 method=SecurID result=OK
+2026-03-02T08:33:00Z auth-node-3 user=user30 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:33:35Z auth-node-1 user=user05 src=10.1.7.117 method=SecurID result=OK
+2026-03-02T08:33:43Z auth-node-2 user=user34 src=10.1.9.152 method=SecurID result=OK
+2026-03-02T08:34:46Z auth-node-3 user=user10 src=10.1.5.112 method=SecurID result=OK
+2026-03-02T08:35:29Z auth-node-2 user=user25 src=10.1.2.102 method=SecurID result=OK
+2026-03-02T08:36:00Z auth-node-3 user=user14 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:38:25Z auth-node-2 user=user34 src=10.1.4.109 method=SecurID result=OK
+2026-03-02T08:39:00Z auth-node-3 user=user11 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:39:56Z auth-node-2 user=user34 src=10.1.8.124 method=SecurID result=OK
+2026-03-02T08:41:54Z auth-node-2 user=user19 src=10.1.1.167 method=SecurID result=OK
+2026-03-02T08:42:00Z auth-node-3 user=user09 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:42:23Z auth-node-3 user=user37 src=10.1.6.97 method=SecurID result=OK
+2026-03-02T08:44:00Z auth-node-1 user=user27 src=10.1.8.167 method=SecurID result=OK
+2026-03-02T08:45:00Z auth-node-3 user=user05 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:48:00Z auth-node-3 user=user13 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:49:19Z auth-node-1 user=user34 src=10.1.5.102 method=SecurID result=OK
+2026-03-02T08:51:00Z auth-node-3 user=user31 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:52:15Z auth-node-2 user=user12 src=10.1.8.161 method=SecurID result=OK
+2026-03-02T08:54:00Z auth-node-3 user=user36 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T08:54:32Z auth-node-1 user=user07 src=10.1.4.85 method=SecurID result=OK
+2026-03-02T08:55:24Z auth-node-2 user=user40 src=10.1.1.28 method=SecurID result=OK
+2026-03-02T08:55:30Z auth-node-1 user=user25 src=10.1.3.47 method=SecurID result=OK
+2026-03-02T08:55:32Z auth-node-1 user=user19 src=10.1.3.73 method=SecurID result=OK
+2026-03-02T08:55:53Z auth-node-1 user=user31 src=10.1.4.124 method=SecurID result=OK
+2026-03-02T08:57:00Z auth-node-3 user=user15 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:00:00Z auth-node-3 user=user10 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:00:01Z auth-node-3 user=user06 src=10.1.8.188 method=SecurID result=OK
+2026-03-02T09:01:06Z auth-node-1 user=user40 src=10.1.3.98 method=SecurID result=OK
+2026-03-02T09:01:37Z auth-node-1 user=user07 src=10.1.2.77 method=SecurID result=OK
+2026-03-02T09:03:00Z auth-node-3 user=user23 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:05:06Z auth-node-1 user=user13 src=10.1.4.29 method=SecurID result=OK
+2026-03-02T09:05:29Z auth-node-2 user=user13 src=10.1.8.55 method=SecurID result=OK
+2026-03-02T09:06:00Z auth-node-3 user=user27 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:06:01Z auth-node-2 user=user01 src=10.1.6.96 method=SecurID result=OK
+2026-03-02T09:07:05Z auth-node-1 user=user32 src=10.1.8.132 method=SecurID result=OK
+2026-03-02T09:09:00Z auth-node-3 user=user30 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:11:08Z auth-node-1 user=user21 src=10.1.9.30 method=SecurID result=OK
+2026-03-02T09:11:24Z auth-node-3 user=user10 src=10.1.9.140 method=SecurID result=OK
+2026-03-02T09:11:32Z auth-node-1 user=user01 src=10.1.2.144 method=SecurID result=OK
+2026-03-02T09:11:52Z auth-node-2 user=user19 src=10.1.3.185 method=SecurID result=OK
+2026-03-02T09:12:00Z auth-node-3 user=user19 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:12:25Z auth-node-3 user=user33 src=10.1.5.38 method=SecurID result=OK
+2026-03-02T09:12:35Z auth-node-2 user=user30 src=10.1.4.147 method=SecurID result=OK
+2026-03-02T09:14:53Z auth-node-2 user=user08 src=10.1.7.123 method=SecurID result=OK
+2026-03-02T09:15:00Z auth-node-3 user=user36 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:15:35Z auth-node-3 user=user03 src=10.1.2.198 method=SecurID result=OK
+2026-03-02T09:16:50Z auth-node-2 user=user23 src=10.1.7.90 method=SecurID result=OK
+2026-03-02T09:18:00Z auth-node-3 user=user09 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:18:34Z auth-node-2 user=user38 src=10.1.1.110 method=SecurID result=OK
+2026-03-02T09:20:30Z auth-node-2 user=user17 src=10.1.5.169 method=SecurID result=OK
+2026-03-02T09:21:00Z auth-node-3 user=user31 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:22:25Z auth-node-1 user=user12 src=10.1.3.69 method=SecurID result=OK
+2026-03-02T09:24:00Z auth-node-3 user=user23 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:25:11Z auth-node-1 user=user21 src=10.1.9.99 method=SecurID result=OK
+2026-03-02T09:25:27Z auth-node-2 user=user23 src=10.1.2.48 method=SecurID result=OK
+2026-03-02T09:26:45Z auth-node-1 user=user09 src=10.1.1.48 method=SecurID result=OK
+2026-03-02T09:27:00Z auth-node-3 user=user15 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:27:53Z auth-node-1 user=user21 src=10.1.4.76 method=SecurID result=OK
+2026-03-02T09:28:10Z auth-node-3 user=user02 src=10.1.4.145 method=SecurID result=OK
+2026-03-02T09:28:22Z auth-node-3 user=user11 src=10.1.2.37 method=SecurID result=OK
+2026-03-02T09:30:00Z auth-node-3 user=user18 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:30:51Z auth-node-2 user=user26 src=10.1.9.81 method=SecurID result=OK
+2026-03-02T09:33:00Z auth-node-3 user=user25 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:34:07Z auth-node-1 user=user31 src=10.1.2.152 method=SecurID result=OK
+2026-03-02T09:35:22Z auth-node-3 user=user20 src=10.1.2.86 method=SecurID result=OK
+2026-03-02T09:36:00Z auth-node-3 user=user17 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:39:00Z auth-node-3 user=user28 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:39:07Z auth-node-3 user=user08 src=10.1.8.120 method=SecurID result=OK
+2026-03-02T09:39:35Z auth-node-2 user=user19 src=10.1.1.47 method=SecurID result=OK
+2026-03-02T09:40:07Z auth-node-2 user=user05 src=10.1.5.14 method=SecurID result=OK
+2026-03-02T09:41:26Z auth-node-1 user=user16 src=10.1.3.82 method=SecurID result=OK
+2026-03-02T09:42:00Z auth-node-3 user=user12 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:43:40Z auth-node-2 user=user28 src=10.1.1.171 method=SecurID result=OK
+2026-03-02T09:44:28Z auth-node-2 user=user03 src=10.1.2.139 method=SecurID result=OK
+2026-03-02T09:45:00Z auth-node-3 user=user31 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:45:25Z auth-node-2 user=user24 src=10.1.8.17 method=SecurID result=OK
+2026-03-02T09:47:08Z auth-node-1 user=user07 src=10.1.5.62 method=SecurID result=OK
+2026-03-02T09:48:00Z auth-node-3 user=user01 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:48:38Z auth-node-1 user=user26 src=10.1.3.172 method=SecurID result=OK
+2026-03-02T09:50:44Z auth-node-1 user=user21 src=10.1.4.109 method=SecurID result=OK
+2026-03-02T09:51:00Z auth-node-3 user=user18 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:51:23Z auth-node-2 user=user03 src=10.1.4.12 method=SecurID result=OK
+2026-03-02T09:51:56Z auth-node-3 user=user31 src=10.1.9.14 method=SecurID result=OK
+2026-03-02T09:52:28Z auth-node-2 user=user35 src=10.1.7.90 method=SecurID result=OK
+2026-03-02T09:53:31Z auth-node-3 user=user32 src=10.1.9.66 method=SecurID result=OK
+2026-03-02T09:54:00Z auth-node-3 user=user23 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:56:09Z auth-node-3 user=user20 src=10.1.2.49 method=SecurID result=OK
+2026-03-02T09:57:00Z auth-node-3 user=user16 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T09:57:31Z auth-node-1 user=user22 src=10.1.4.190 method=SecurID result=OK
+2026-03-02T09:58:16Z auth-node-3 user=user06 src=10.1.5.53 method=SecurID result=OK
+2026-03-02T10:00:00Z auth-node-2 user=user01 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:00:00Z auth-node-3 user=user20 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:00:20Z auth-node-2 user=user02 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:00:24Z auth-node-1 user=user15 src=10.1.8.60 method=SecurID result=OK
+2026-03-02T10:00:40Z auth-node-2 user=user03 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:01:00Z auth-node-2 user=user04 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:01:20Z auth-node-2 user=user05 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:01:40Z auth-node-2 user=user06 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:02:00Z auth-node-2 user=user07 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:02:20Z auth-node-2 user=user08 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:02:34Z auth-node-2 user=user26 src=10.1.9.66 method=SecurID result=OK
+2026-03-02T10:02:40Z auth-node-2 user=user09 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:03:00Z auth-node-2 user=user10 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:03:00Z auth-node-3 user=user21 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:03:20Z auth-node-2 user=user11 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:03:40Z auth-node-2 user=user12 src=198.51.100.9 method=Password result=FAIL reason=LDAP_USER_NOT_FOUND
+2026-03-02T10:04:25Z auth-node-3 user=user28 src=10.1.6.68 method=SecurID result=OK
+2026-03-02T10:06:00Z auth-node-3 user=user31 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:06:21Z auth-node-3 user=user07 src=10.1.8.19 method=SecurID result=OK
+2026-03-02T10:08:57Z auth-node-2 user=user21 src=10.1.8.102 method=SecurID result=OK
+2026-03-02T10:09:00Z auth-node-3 user=user32 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:10:20Z auth-node-2 user=user31 src=10.1.9.181 method=SecurID result=OK
+2026-03-02T10:11:21Z auth-node-3 user=user21 src=10.1.5.149 method=SecurID result=OK
+2026-03-02T10:12:00Z auth-node-3 user=user28 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:12:19Z auth-node-2 user=user37 src=10.1.7.68 method=SecurID result=OK
+2026-03-02T10:14:39Z auth-node-1 user=user14 src=10.1.2.18 method=SecurID result=OK
+2026-03-02T10:14:55Z auth-node-3 user=user13 src=10.1.1.153 method=SecurID result=OK
+2026-03-02T10:15:00Z auth-node-3 user=user40 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:15:13Z auth-node-2 user=user26 src=10.1.8.30 method=SecurID result=OK
+2026-03-02T10:15:40Z auth-node-1 user=user16 src=10.1.2.157 method=SecurID result=OK
+2026-03-02T10:15:41Z auth-node-1 user=user15 src=10.1.3.48 method=SecurID result=OK
+2026-03-02T10:16:07Z auth-node-2 user=user25 src=10.1.6.124 method=SecurID result=OK
+2026-03-02T10:17:30Z auth-node-3 user=user28 src=10.1.2.35 method=SecurID result=OK
+2026-03-02T10:18:00Z auth-node-3 user=user06 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:18:31Z auth-node-2 user=user38 src=10.1.6.197 method=SecurID result=OK
+2026-03-02T10:20:21Z auth-node-1 user=user05 src=10.1.6.102 method=SecurID result=OK
+2026-03-02T10:21:00Z auth-node-3 user=user24 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:21:57Z auth-node-3 user=user01 src=10.1.2.173 method=SecurID result=OK
+2026-03-02T10:22:28Z auth-node-1 user=user39 src=10.1.1.12 method=SecurID result=OK
+2026-03-02T10:22:46Z auth-node-1 user=user03 src=10.1.2.95 method=SecurID result=OK
+2026-03-02T10:23:01Z auth-node-1 user=user12 src=10.1.4.89 method=SecurID result=OK
+2026-03-02T10:24:00Z auth-node-3 user=user10 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:24:03Z auth-node-1 user=user30 src=10.1.2.138 method=SecurID result=OK
+2026-03-02T10:24:39Z auth-node-3 user=user06 src=10.1.4.34 method=SecurID result=OK
+2026-03-02T10:26:04Z auth-node-2 user=user40 src=10.1.3.195 method=SecurID result=OK
+2026-03-02T10:26:55Z auth-node-2 user=user01 src=10.1.5.103 method=SecurID result=OK
+2026-03-02T10:27:00Z auth-node-3 user=user20 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:28:30Z auth-node-1 user=user12 src=10.1.5.43 method=SecurID result=OK
+2026-03-02T10:28:43Z auth-node-2 user=user40 src=10.1.1.77 method=SecurID result=OK
+2026-03-02T10:30:00Z auth-node-3 user=user25 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:30:10Z auth-node-2 user=user10 src=10.1.5.138 method=SecurID result=OK
+2026-03-02T10:32:19Z auth-node-3 user=user13 src=10.1.4.139 method=SecurID result=OK
+2026-03-02T10:32:35Z auth-node-3 user=user18 src=10.1.6.75 method=SecurID result=OK
+2026-03-02T10:32:48Z auth-node-1 user=user23 src=10.1.7.41 method=SecurID result=OK
+2026-03-02T10:33:00Z auth-node-3 user=user04 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:36:00Z auth-node-3 user=user06 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:38:54Z auth-node-3 user=user28 src=10.1.7.141 method=SecurID result=OK
+2026-03-02T10:39:00Z auth-node-3 user=user37 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:40:02Z auth-node-1 user=user30 src=10.1.3.50 method=SecurID result=OK
+2026-03-02T10:41:26Z auth-node-3 user=user14 src=10.1.2.139 method=SecurID result=OK
+2026-03-02T10:41:46Z auth-node-2 user=user02 src=10.1.3.75 method=SecurID result=OK
+2026-03-02T10:42:00Z auth-node-3 user=user21 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:42:47Z auth-node-3 user=user06 src=10.1.5.142 method=SecurID result=OK
+2026-03-02T10:43:58Z auth-node-3 user=user32 src=10.1.6.196 method=SecurID result=OK
+2026-03-02T10:45:00Z auth-node-3 user=user09 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:47:59Z auth-node-2 user=user04 src=10.1.5.200 method=SecurID result=OK
+2026-03-02T10:48:00Z auth-node-3 user=user34 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:50:12Z auth-node-1 user=user31 src=10.1.1.84 method=SecurID result=OK
+2026-03-02T10:50:56Z auth-node-2 user=user07 src=10.1.7.72 method=SecurID result=OK
+2026-03-02T10:51:00Z auth-node-3 user=user23 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:52:34Z auth-node-1 user=user16 src=10.1.7.28 method=SecurID result=OK
+2026-03-02T10:54:00Z auth-node-3 user=user38 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:54:17Z auth-node-2 user=user28 src=10.1.5.15 method=SecurID result=OK
+2026-03-02T10:56:51Z auth-node-1 user=user26 src=10.1.1.28 method=SecurID result=OK
+2026-03-02T10:57:00Z auth-node-3 user=user01 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T10:57:49Z auth-node-3 user=user33 src=10.1.9.61 method=SecurID result=OK
+2026-03-02T10:57:54Z auth-node-1 user=user28 src=10.1.2.28 method=SecurID result=OK
+2026-03-02T10:58:36Z auth-node-1 user=user18 src=10.1.1.186 method=SecurID result=OK
+2026-03-02T10:59:26Z auth-node-3 user=user16 src=10.1.7.171 method=SecurID result=OK
+2026-03-02T11:00:00Z auth-node-3 user=user01 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:02:26Z auth-node-2 user=user16 src=10.1.9.59 method=SecurID result=OK
+2026-03-02T11:03:00Z auth-node-3 user=user14 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:04:26Z auth-node-1 user=user31 src=10.1.1.132 method=SecurID result=OK
+2026-03-02T11:06:00Z auth-node-3 user=user05 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:06:45Z auth-node-3 user=user06 src=10.1.6.71 method=SecurID result=OK
+2026-03-02T11:09:00Z auth-node-3 user=user19 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:09:36Z auth-node-3 user=user17 src=10.1.3.82 method=SecurID result=OK
+2026-03-02T11:10:10Z auth-node-1 user=user37 src=10.1.8.148 method=SecurID result=OK
+2026-03-02T11:11:38Z auth-node-2 user=user19 src=10.1.1.193 method=SecurID result=OK
+2026-03-02T11:12:00Z auth-node-3 user=user17 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:14:07Z auth-node-1 user=user40 src=10.1.2.136 method=SecurID result=OK
+2026-03-02T11:14:11Z auth-node-3 user=user02 src=10.1.1.81 method=SecurID result=OK
+2026-03-02T11:15:00Z auth-node-3 user=user39 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:17:33Z auth-node-1 user=user35 src=10.1.1.145 method=SecurID result=OK
+2026-03-02T11:18:00Z auth-node-3 user=user07 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:18:50Z auth-node-1 user=user09 src=10.1.8.68 method=SecurID result=OK
+2026-03-02T11:20:00Z auth-node-3 user=user31 src=10.1.3.44 method=SecurID result=OK
+2026-03-02T11:20:16Z auth-node-1 user=user23 src=10.1.4.146 method=SecurID result=OK
+2026-03-02T11:21:00Z auth-node-3 user=user38 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:21:08Z auth-node-2 user=user37 src=10.1.4.15 method=SecurID result=OK
+2026-03-02T11:21:29Z auth-node-3 user=user10 src=10.1.6.94 method=SecurID result=OK
+2026-03-02T11:23:17Z auth-node-3 user=user12 src=10.1.8.164 method=SecurID result=OK
+2026-03-02T11:24:00Z auth-node-3 user=user10 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:24:53Z auth-node-2 user=user30 src=10.1.2.199 method=SecurID result=OK
+2026-03-02T11:25:06Z auth-node-1 user=user30 src=10.1.2.25 method=SecurID result=OK
+2026-03-02T11:27:00Z auth-node-3 user=user15 src=10.1.5.20 method=SecurID result=FAIL reason=AGENT_SECRET_MISMATCH
+2026-03-02T11:29:34Z auth-node-2 user=user13 src=10.1.5.42 method=SecurID result=OK
+2026-03-02T11:30:01Z auth-node-2 user=user29 src=10.1.7.89 method=SecurID result=OK
+2026-03-02T11:31:16Z auth-node-1 user=user14 src=10.1.2.158 method=SecurID result=OK
+2026-03-02T11:32:17Z auth-node-2 user=user07 src=10.1.1.74 method=SecurID result=OK
+2026-03-02T11:32:54Z auth-node-3 user=user30 src=10.1.9.170 method=SecurID result=OK
+2026-03-02T11:33:50Z auth-node-3 user=user38 src=10.1.2.154 method=SecurID result=OK
+2026-03-02T11:33:54Z auth-node-1 user=user16 src=10.1.7.26 method=SecurID result=OK
+2026-03-02T11:35:13Z auth-node-1 user=user11 src=10.1.1.135 method=SecurID result=OK
+2026-03-02T11:35:22Z auth-node-1 user=user11 src=10.1.3.29 method=SecurID result=OK
+2026-03-02T11:36:10Z auth-node-2 user=user26 src=10.1.2.195 method=SecurID result=OK
+2026-03-02T11:36:18Z auth-node-2 user=user16 src=10.1.9.144 method=SecurID result=OK
+2026-03-02T11:37:30Z auth-node-2 user=user11 src=10.1.4.51 method=SecurID result=OK
+2026-03-02T11:37:53Z auth-node-2 user=user07 src=10.1.8.172 method=SecurID result=OK
+2026-03-02T11:37:55Z auth-node-2 user=user15 src=10.1.9.171 method=SecurID result=OK
+2026-03-02T11:38:28Z auth-node-3 user=user36 src=10.1.4.194 method=SecurID result=OK
+2026-03-02T11:38:38Z auth-node-1 user=user05 src=10.1.3.101 method=SecurID result=OK
+2026-03-02T11:38:41Z auth-node-1 user=user13 src=10.1.2.63 method=SecurID result=OK
+2026-03-02T11:39:08Z auth-node-2 user=user06 src=10.1.7.175 method=SecurID result=OK
+2026-03-02T11:40:54Z auth-node-3 user=user13 src=10.1.8.56 method=SecurID result=OK
+2026-03-02T11:41:10Z auth-node-1 user=user01 src=10.1.7.50 method=SecurID result=OK
+2026-03-02T11:42:54Z auth-node-1 user=user26 src=10.1.9.49 method=SecurID result=OK
+2026-03-02T11:46:34Z auth-node-2 user=user19 src=10.1.5.75 method=SecurID result=OK
+2026-03-02T11:48:48Z auth-node-3 user=user24 src=10.1.6.42 method=SecurID result=OK
+2026-03-02T11:48:50Z auth-node-1 user=user04 src=10.1.6.127 method=SecurID result=OK
+2026-03-02T11:49:57Z auth-node-2 user=user29 src=10.1.3.69 method=SecurID result=OK
+2026-03-02T11:50:04Z auth-node-1 user=user23 src=10.1.6.33 method=SecurID result=OK
+2026-03-02T11:51:25Z auth-node-1 user=user06 src=10.1.7.157 method=SecurID result=OK
+2026-03-02T11:53:46Z auth-node-3 user=user33 src=10.1.3.107 method=SecurID result=OK
+2026-03-02T11:55:09Z auth-node-2 user=user06 src=10.1.8.139 method=SecurID result=OK
+2026-03-02T11:56:49Z auth-node-2 user=user05 src=10.1.4.33 method=SecurID result=OK
+2026-03-02T11:56:58Z auth-node-3 user=user22 src=10.1.2.194 method=SecurID result=OK
+2026-03-02T11:58:08Z auth-node-1 user=user34 src=10.1.4.83 method=SecurID result=OK
+2026-03-02T11:59:38Z auth-node-3 user=user17 src=10.1.4.42 method=SecurID result=OK
+2026-03-02T12:00:38Z auth-node-1 user=user08 src=10.1.6.163 method=SecurID result=OK
+2026-03-02T12:01:37Z auth-node-1 user=user07 src=10.1.1.30 method=SecurID result=OK
+2026-03-02T12:03:24Z auth-node-3 user=user12 src=10.1.5.98 method=SecurID result=OK
+2026-03-02T12:05:07Z auth-node-2 user=user39 src=10.1.2.40 method=SecurID result=OK
+2026-03-02T12:05:33Z auth-node-3 user=user21 src=10.1.2.30 method=SecurID result=OK
+2026-03-02T12:06:56Z auth-node-3 user=user02 src=10.1.2.123 method=SecurID result=OK
+2026-03-02T12:07:23Z auth-node-2 user=user29 src=10.1.7.45 method=SecurID result=OK
+2026-03-02T12:07:49Z auth-node-1 user=user22 src=10.1.9.116 method=SecurID result=OK
+2026-03-02T12:10:29Z auth-node-2 user=user02 src=10.1.7.94 method=SecurID result=OK
+2026-03-02T12:10:39Z auth-node-1 user=user33 src=10.1.8.78 method=SecurID result=OK
+2026-03-02T12:14:00Z auth-node-1 user=user17 src=10.1.5.37 method=SecurID result=OK
+2026-03-02T12:14:16Z auth-node-3 user=user30 src=10.1.6.86 method=SecurID result=OK
+2026-03-02T12:14:26Z auth-node-2 user=user08 src=10.1.9.61 method=SecurID result=OK
+2026-03-02T12:16:06Z auth-node-3 user=user04 src=10.1.9.154 method=SecurID result=OK
+2026-03-02T12:17:54Z auth-node-2 user=user13 src=10.1.6.124 method=SecurID result=OK
+2026-03-02T12:18:34Z auth-node-1 user=user24 src=10.1.9.124 method=SecurID result=OK
+2026-03-02T12:18:55Z auth-node-3 user=user05 src=10.1.1.197 method=SecurID result=OK
+2026-03-02T12:23:30Z auth-node-1 user=user36 src=10.1.1.73 method=SecurID result=OK
+2026-03-02T12:23:38Z auth-node-2 user=user02 src=10.1.7.142 method=SecurID result=OK
+2026-03-02T12:24:14Z auth-node-2 user=user06 src=10.1.3.36 method=SecurID result=OK
+2026-03-02T12:24:54Z auth-node-2 user=user04 src=10.1.3.110 method=SecurID result=OK
+2026-03-02T12:25:18Z auth-node-2 user=user07 src=10.1.4.182 method=SecurID result=OK
+2026-03-02T12:27:23Z auth-node-2 user=user34 src=10.1.5.128 method=SecurID result=OK
+2026-03-02T12:29:12Z auth-node-1 user=user22 src=10.1.7.102 method=SecurID result=OK
+2026-03-02T12:32:08Z auth-node-3 user=user27 src=10.1.2.75 method=SecurID result=OK
+2026-03-02T12:35:01Z auth-node-2 user=user12 src=10.1.1.10 method=SecurID result=OK
+2026-03-02T12:35:30Z auth-node-1 user=user10 src=10.1.6.82 method=SecurID result=OK
+2026-03-02T12:36:20Z auth-node-1 user=user21 src=10.1.6.19 method=SecurID result=OK
+2026-03-02T12:38:36Z auth-node-3 user=user03 src=10.1.1.172 method=SecurID result=OK
+2026-03-02T12:39:35Z auth-node-2 user=user11 src=10.1.6.48 method=SecurID result=OK
+2026-03-02T12:40:35Z auth-node-1 user=user40 src=10.1.6.173 method=SecurID result=OK
+2026-03-02T12:40:50Z auth-node-2 user=user16 src=10.1.8.37 method=SecurID result=OK
+2026-03-02T12:42:35Z auth-node-3 user=user19 src=10.1.9.26 method=SecurID result=OK
+2026-03-02T12:43:02Z auth-node-3 user=user33 src=10.1.7.166 method=SecurID result=OK
+2026-03-02T12:45:16Z auth-node-3 user=user07 src=10.1.8.31 method=SecurID result=OK
+2026-03-02T12:45:40Z auth-node-2 user=user35 src=10.1.4.115 method=SecurID result=OK
+2026-03-02T12:45:44Z auth-node-2 user=user36 src=10.1.4.124 method=SecurID result=OK
+2026-03-02T12:46:15Z auth-node-1 user=user25 src=10.1.5.96 method=SecurID result=OK
+2026-03-02T12:47:45Z auth-node-3 user=user16 src=10.1.2.51 method=SecurID result=OK
+2026-03-02T12:50:17Z auth-node-3 user=user39 src=10.1.1.99 method=SecurID result=OK
+2026-03-02T12:53:03Z auth-node-3 user=user37 src=10.1.8.189 method=SecurID result=OK
+2026-03-02T12:53:32Z auth-node-2 user=user30 src=10.1.5.90 method=SecurID result=OK
+2026-03-02T12:55:17Z auth-node-1 user=user37 src=10.1.5.153 method=SecurID result=OK
+2026-03-02T12:55:46Z auth-node-3 user=user22 src=10.1.4.166 method=SecurID result=OK
+2026-03-02T12:56:44Z auth-node-1 user=user11 src=10.1.4.142 method=SecurID result=OK
+2026-03-02T12:58:44Z auth-node-1 user=user02 src=10.1.7.190 method=SecurID result=OK
+2026-03-02T12:59:08Z auth-node-3 user=user05 src=10.1.1.168 method=SecurID result=OK
+2026-03-02T12:59:09Z auth-node-1 user=user16 src=10.1.2.54 method=SecurID result=OK
+2026-03-02T13:00:00Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:00:40Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:00:56Z auth-node-2 user=user04 src=10.1.2.67 method=SecurID result=OK
+2026-03-02T13:01:11Z auth-node-1 user=user01 src=10.1.3.69 method=SecurID result=OK
+2026-03-02T13:01:20Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:02:00Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:02:40Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:03:20Z auth-node-1 user=user05 src=10.1.2.31 method=SecurID result=FAIL reason=PASSCODE_INCORRECT
+2026-03-02T13:04:00Z auth-node-1 user=user19 src=10.1.7.46 method=SecurID result=OK
+2026-03-02T13:06:27Z auth-node-1 user=user25 src=10.1.6.89 method=SecurID result=OK
+2026-03-02T13:06:31Z auth-node-1 user=user21 src=10.1.6.34 method=SecurID result=OK
+2026-03-02T13:08:47Z auth-node-1 user=user03 src=10.1.7.142 method=SecurID result=OK
+2026-03-02T13:09:23Z auth-node-2 user=user27 src=10.1.7.14 method=SecurID result=OK
+2026-03-02T13:10:04Z auth-node-1 user=user01 src=10.1.8.25 method=SecurID result=OK
+2026-03-02T13:10:57Z auth-node-1 user=user20 src=10.1.3.170 method=SecurID result=OK
+2026-03-02T13:11:57Z auth-node-3 user=user13 src=10.1.6.34 method=SecurID result=OK
+2026-03-02T13:16:46Z auth-node-3 user=user07 src=10.1.5.147 method=SecurID result=OK
+2026-03-02T13:17:37Z auth-node-2 user=user34 src=10.1.3.125 method=SecurID result=OK
+2026-03-02T13:18:43Z auth-node-2 user=user38 src=10.1.3.62 method=SecurID result=OK
+2026-03-02T13:18:58Z auth-node-3 user=user15 src=10.1.2.17 method=SecurID result=OK
+2026-03-02T13:19:47Z auth-node-2 user=user04 src=10.1.4.21 method=SecurID result=OK
+2026-03-02T13:19:48Z auth-node-3 user=user10 src=10.1.7.93 method=SecurID result=OK
+2026-03-02T13:22:39Z auth-node-2 user=user10 src=10.1.8.178 method=SecurID result=OK
+2026-03-02T13:25:34Z auth-node-3 user=user40 src=10.1.6.65 method=SecurID result=OK
+2026-03-02T13:29:42Z auth-node-3 user=user26 src=10.1.1.199 method=SecurID result=OK
+2026-03-02T13:31:51Z auth-node-3 user=user25 src=10.1.2.192 method=SecurID result=OK
+2026-03-02T13:33:23Z auth-node-2 user=user11 src=10.1.6.167 method=SecurID result=OK
+2026-03-02T13:34:31Z auth-node-3 user=user03 src=10.1.1.23 method=SecurID result=OK
+2026-03-02T13:36:04Z auth-node-3 user=user04 src=10.1.5.142 method=SecurID result=OK
+2026-03-02T13:37:53Z auth-node-3 user=user10 src=10.1.1.193 method=SecurID result=OK
+2026-03-02T13:37:59Z auth-node-2 user=user30 src=10.1.4.124 method=SecurID result=OK
+2026-03-02T13:38:47Z auth-node-3 user=user11 src=10.1.4.168 method=SecurID result=OK
+2026-03-02T13:39:09Z auth-node-2 user=user05 src=10.1.4.18 method=SecurID result=OK
+2026-03-02T13:41:34Z auth-node-3 user=user17 src=10.1.7.51 method=SecurID result=OK
+2026-03-02T13:41:51Z auth-node-1 user=user31 src=10.1.9.11 method=SecurID result=OK
+2026-03-02T13:43:16Z auth-node-3 user=user23 src=10.1.5.37 method=SecurID result=OK
+2026-03-02T13:43:20Z auth-node-2 user=user34 src=10.1.4.84 method=SecurID result=OK
+2026-03-02T13:43:51Z auth-node-1 user=user06 src=10.1.5.73 method=SecurID result=OK
+2026-03-02T13:43:56Z auth-node-2 user=user24 src=10.1.5.106 method=SecurID result=OK
+2026-03-02T13:44:24Z auth-node-3 user=user38 src=10.1.1.157 method=SecurID result=OK
+2026-03-02T13:44:58Z auth-node-2 user=user16 src=10.1.7.20 method=SecurID result=OK
+2026-03-02T13:45:35Z auth-node-3 user=user13 src=10.1.2.163 method=SecurID result=OK
+2026-03-02T13:46:28Z auth-node-2 user=user23 src=10.1.6.131 method=SecurID result=OK
+2026-03-02T13:46:29Z auth-node-1 user=user17 src=10.1.2.165 method=SecurID result=OK
+2026-03-02T13:47:16Z auth-node-3 user=user28 src=10.1.9.77 method=SecurID result=OK
+2026-03-02T13:47:30Z auth-node-2 user=user29 src=10.1.9.143 method=SecurID result=OK
+2026-03-02T13:49:04Z auth-node-3 user=user06 src=10.1.3.111 method=SecurID result=OK
+2026-03-02T13:49:07Z auth-node-2 user=user34 src=10.1.6.115 method=SecurID result=OK
+2026-03-02T13:52:01Z auth-node-1 user=user31 src=10.1.9.70 method=SecurID result=OK
+2026-03-02T13:54:44Z auth-node-1 user=user31 src=10.1.9.149 method=SecurID result=OK
+2026-03-02T13:54:47Z auth-node-2 user=user04 src=10.1.1.59 method=SecurID result=OK
+2026-03-02T13:56:20Z auth-node-3 user=user30 src=10.1.1.89 method=SecurID result=OK
+2026-03-02T13:58:00Z auth-node-2 user=user12 src=10.1.4.36 method=SecurID result=OK
+2026-03-02T13:59:31Z auth-node-3 user=user28 src=10.1.8.149 method=SecurID result=OK
+2026-03-02T13:59:38Z auth-node-1 user=user01 src=10.1.8.160 method=SecurID result=OK
+2026-03-02T14:01:35Z auth-node-3 user=user21 src=10.1.3.128 method=SecurID result=OK
+2026-03-02T14:01:47Z auth-node-3 user=user34 src=10.1.7.138 method=SecurID result=OK
+2026-03-02T14:02:52Z auth-node-3 user=user25 src=10.1.6.94 method=SecurID result=OK
+2026-03-02T14:04:45Z auth-node-3 user=user38 src=10.1.4.183 method=SecurID result=OK
+2026-03-02T14:08:46Z auth-node-3 user=user12 src=10.1.6.12 method=SecurID result=OK
+2026-03-02T14:12:14Z auth-node-2 user=user26 src=10.1.5.196 method=SecurID result=OK
+2026-03-02T14:12:46Z auth-node-2 user=user13 src=10.1.1.84 method=SecurID result=OK
+2026-03-02T14:17:06Z auth-node-3 user=user40 src=10.1.1.126 method=SecurID result=OK
+2026-03-02T14:18:19Z auth-node-2 user=user29 src=10.1.9.146 method=SecurID result=OK
+2026-03-02T14:19:43Z auth-node-2 user=user39 src=10.1.8.158 method=SecurID result=OK
+2026-03-02T14:19:47Z auth-node-2 user=user27 src=10.1.5.180 method=SecurID result=OK
+2026-03-02T14:23:06Z auth-node-2 user=user37 src=10.1.8.82 method=SecurID result=OK
+2026-03-02T14:24:06Z auth-node-2 user=user15 src=10.1.8.134 method=SecurID result=OK
+2026-03-02T14:25:44Z auth-node-2 user=user33 src=10.1.7.96 method=SecurID result=OK
+2026-03-02T14:25:47Z auth-node-2 user=user23 src=10.1.7.69 method=SecurID result=OK
+2026-03-02T14:27:29Z auth-node-2 user=user38 src=10.1.8.10 method=SecurID result=OK
+2026-03-02T14:31:22Z auth-node-2 user=user23 src=10.1.1.128 method=SecurID result=OK
+2026-03-02T14:33:35Z auth-node-2 user=user10 src=10.1.5.195 method=SecurID result=OK
+2026-03-02T14:34:23Z auth-node-2 user=user02 src=10.1.6.151 method=SecurID result=OK
+2026-03-02T14:38:02Z auth-node-3 user=user09 src=10.1.7.98 method=SecurID result=OK
+2026-03-02T14:43:04Z auth-node-2 user=user13 src=10.1.8.73 method=SecurID result=OK
+2026-03-02T14:43:36Z auth-node-3 user=user17 src=10.1.7.177 method=SecurID result=OK
+2026-03-02T14:43:39Z auth-node-3 user=user05 src=10.1.4.136 method=SecurID result=OK
+2026-03-02T14:44:02Z auth-node-3 user=user30 src=10.1.8.107 method=SecurID result=OK
+2026-03-02T14:45:17Z auth-node-2 user=user14 src=10.1.3.110 method=SecurID result=OK
+2026-03-02T14:47:16Z auth-node-3 user=user31 src=10.1.5.29 method=SecurID result=OK
+2026-03-02T14:47:39Z auth-node-3 user=user21 src=10.1.5.86 method=SecurID result=OK
+2026-03-02T14:49:19Z auth-node-1 user=user28 src=10.1.4.64 method=SecurID result=OK
+2026-03-02T14:49:24Z auth-node-2 user=user25 src=10.1.7.200 method=SecurID result=OK
+2026-03-02T14:49:25Z auth-node-2 user=user17 src=10.1.8.187 method=SecurID result=OK
+2026-03-02T14:50:45Z auth-node-1 user=user32 src=10.1.5.157 method=SecurID result=OK
+2026-03-02T14:51:03Z auth-node-1 user=user19 src=10.1.8.22 method=SecurID result=OK
+2026-03-02T14:54:58Z auth-node-2 user=user21 src=10.1.9.131 method=SecurID result=OK
+2026-03-02T14:56:15Z auth-node-1 user=user01 src=10.1.6.135 method=SecurID result=OK
+2026-03-02T14:57:00Z auth-node-3 user=user30 src=10.1.3.131 method=SecurID result=OK
+2026-03-02T14:57:35Z auth-node-1 user=user29 src=10.1.4.55 method=SecurID result=OK
+2026-03-02T15:03:55Z auth-node-1 user=user06 src=10.1.5.32 method=SecurID result=OK
+2026-03-02T15:04:56Z auth-node-2 user=user27 src=10.1.5.159 method=SecurID result=OK
+2026-03-02T15:07:16Z auth-node-2 user=user11 src=10.1.5.118 method=SecurID result=OK
+2026-03-02T15:08:04Z auth-node-3 user=user06 src=10.1.9.60 method=SecurID result=OK
+2026-03-02T15:10:33Z auth-node-3 user=user15 src=10.1.2.99 method=SecurID result=OK
+2026-03-02T15:12:36Z auth-node-2 user=user08 src=10.1.9.22 method=SecurID result=OK
+2026-03-02T15:14:06Z auth-node-2 user=user20 src=10.1.7.80 method=SecurID result=OK
+2026-03-02T15:14:19Z auth-node-2 user=user36 src=10.1.8.26 method=SecurID result=OK
+2026-03-02T15:15:12Z auth-node-2 user=user05 src=10.1.2.79 method=SecurID result=OK
+2026-03-02T15:18:43Z auth-node-1 user=user13 src=10.1.9.136 method=SecurID result=OK
+2026-03-02T15:18:54Z auth-node-1 user=user17 src=10.1.1.13 method=SecurID result=OK
+2026-03-02T15:20:26Z auth-node-2 user=user06 src=10.1.6.198 method=SecurID result=OK
+2026-03-02T15:20:55Z auth-node-2 user=user33 src=10.1.4.188 method=SecurID result=OK
+2026-03-02T15:21:35Z auth-node-3 user=user23 src=10.1.6.30 method=SecurID result=OK
+2026-03-02T15:23:11Z auth-node-1 user=user16 src=10.1.7.199 method=SecurID result=OK
+2026-03-02T15:23:13Z auth-node-2 user=user01 src=10.1.1.175 method=SecurID result=OK
+2026-03-02T15:24:59Z auth-node-2 user=user09 src=10.1.8.56 method=SecurID result=OK
+2026-03-02T15:25:13Z auth-node-1 user=user15 src=10.1.8.52 method=SecurID result=OK
+2026-03-02T15:25:42Z auth-node-3 user=user12 src=10.1.2.158 method=SecurID result=OK
+2026-03-02T15:26:29Z auth-node-3 user=user05 src=10.1.7.37 method=SecurID result=OK
+2026-03-02T15:27:11Z auth-node-2 user=user27 src=10.1.6.57 method=SecurID result=OK
+2026-03-02T15:27:42Z auth-node-2 user=user17 src=10.1.7.48 method=SecurID result=OK
+2026-03-02T15:28:18Z auth-node-3 user=user23 src=10.1.8.164 method=SecurID result=OK
+2026-03-02T15:28:31Z auth-node-3 user=user07 src=10.1.6.159 method=SecurID result=OK
+2026-03-02T15:28:55Z auth-node-2 user=user06 src=10.1.1.190 method=SecurID result=OK
+2026-03-02T15:31:06Z auth-node-1 user=user07 src=10.1.8.193 method=SecurID result=OK
+2026-03-02T15:35:48Z auth-node-2 user=user33 src=10.1.5.186 method=SecurID result=OK
+2026-03-02T15:36:28Z auth-node-2 user=user36 src=10.1.1.170 method=SecurID result=OK
+2026-03-02T15:37:16Z auth-node-1 user=user31 src=10.1.6.23 method=SecurID result=OK
+2026-03-02T15:38:15Z auth-node-2 user=user08 src=10.1.4.192 method=SecurID result=OK
+2026-03-02T15:38:35Z auth-node-3 user=user01 src=10.1.1.121 method=SecurID result=OK
+2026-03-02T15:40:06Z auth-node-3 user=user03 src=10.1.6.40 method=SecurID result=OK
+2026-03-02T15:42:06Z auth-node-2 user=user16 src=10.1.4.69 method=SecurID result=OK
+2026-03-02T15:42:34Z auth-node-3 user=user08 src=10.1.5.85 method=SecurID result=OK
+2026-03-02T15:43:29Z auth-node-1 user=user09 src=10.1.1.118 method=SecurID result=OK
+2026-03-02T15:44:57Z auth-node-2 user=user40 src=10.1.1.115 method=SecurID result=OK
+2026-03-02T15:47:36Z auth-node-1 user=user05 src=10.1.5.41 method=SecurID result=OK
+2026-03-02T15:48:04Z auth-node-1 user=user40 src=10.1.2.59 method=SecurID result=OK
+2026-03-02T15:51:59Z auth-node-2 user=user13 src=10.1.7.196 method=SecurID result=OK
+2026-03-02T15:57:30Z auth-node-1 user=user40 src=10.1.7.48 method=SecurID result=OK
+2026-03-02T16:02:08Z auth-node-1 user=user30 src=10.1.4.34 method=SecurID result=OK
+2026-03-02T16:02:08Z auth-node-2 user=user30 src=10.1.3.43 method=SecurID result=OK
+2026-03-02T16:02:26Z auth-node-1 user=user28 src=10.1.9.81 method=SecurID result=OK
+2026-03-02T16:02:52Z auth-node-3 user=user13 src=10.1.6.26 method=SecurID result=OK
+2026-03-02T16:03:27Z auth-node-2 user=user30 src=10.1.1.13 method=SecurID result=OK
+2026-03-02T16:06:45Z auth-node-3 user=user17 src=10.1.1.78 method=SecurID result=OK
+2026-03-02T16:07:07Z auth-node-3 user=user28 src=10.1.9.45 method=SecurID result=OK
+2026-03-02T16:10:20Z auth-node-3 user=user06 src=10.1.9.26 method=SecurID result=OK
+2026-03-02T16:11:15Z auth-node-3 user=user36 src=10.1.7.111 method=SecurID result=OK
+2026-03-02T16:13:26Z auth-node-1 user=user03 src=10.1.1.146 method=SecurID result=OK
+2026-03-02T16:16:32Z auth-node-3 user=user23 src=10.1.2.179 method=SecurID result=OK
+2026-03-02T16:16:55Z auth-node-3 user=user33 src=10.1.1.185 method=SecurID result=OK
+2026-03-02T16:17:24Z auth-node-1 user=user10 src=10.1.1.16 method=SecurID result=OK
+2026-03-02T16:18:01Z auth-node-3 user=user09 src=10.1.3.130 method=SecurID result=OK
+2026-03-02T16:19:22Z auth-node-2 user=user03 src=10.1.5.69 method=SecurID result=OK
+2026-03-02T16:23:21Z auth-node-3 user=user35 src=10.1.8.130 method=SecurID result=OK
+2026-03-02T16:25:24Z auth-node-2 user=user18 src=10.1.1.81 method=SecurID result=OK
+2026-03-02T16:26:05Z auth-node-2 user=user40 src=10.1.3.21 method=SecurID result=OK
+2026-03-02T16:28:46Z auth-node-1 user=user22 src=10.1.4.57 method=SecurID result=OK
+2026-03-02T16:29:41Z auth-node-2 user=user27 src=10.1.1.181 method=SecurID result=OK
+2026-03-02T16:31:24Z auth-node-2 user=user21 src=10.1.7.53 method=SecurID result=OK
+2026-03-02T16:31:48Z auth-node-3 user=user32 src=10.1.4.52 method=SecurID result=OK
+2026-03-02T16:31:58Z auth-node-2 user=user10 src=10.1.9.150 method=SecurID result=OK
+2026-03-02T16:33:05Z auth-node-3 user=user24 src=10.1.3.74 method=SecurID result=OK
+2026-03-02T16:33:52Z auth-node-1 user=user10 src=10.1.7.61 method=SecurID result=OK
+2026-03-02T16:39:52Z auth-node-3 user=user32 src=10.1.3.67 method=SecurID result=OK
+2026-03-02T16:41:56Z auth-node-3 user=user15 src=10.1.5.64 method=SecurID result=OK
+2026-03-02T16:42:31Z auth-node-2 user=user25 src=10.1.5.120 method=SecurID result=OK
+2026-03-02T16:45:15Z auth-node-2 user=user36 src=10.1.6.72 method=SecurID result=OK
+2026-03-02T16:46:39Z auth-node-2 user=user14 src=10.1.5.167 method=SecurID result=OK
+2026-03-02T16:48:29Z auth-node-2 user=user09 src=10.1.9.145 method=SecurID result=OK
+2026-03-02T16:49:40Z auth-node-1 user=user20 src=10.1.4.69 method=SecurID result=OK
+2026-03-02T16:50:15Z auth-node-2 user=user39 src=10.1.4.187 method=SecurID result=OK
+2026-03-02T16:50:18Z auth-node-2 user=user28 src=10.1.9.90 method=SecurID result=OK
+2026-03-02T16:52:33Z auth-node-3 user=user07 src=10.1.3.178 method=SecurID result=OK
+2026-03-02T16:53:47Z auth-node-1 user=user02 src=10.1.1.20 method=SecurID result=OK
+2026-03-02T16:56:14Z auth-node-1 user=user09 src=10.1.1.28 method=SecurID result=OK
+2026-03-02T16:56:31Z auth-node-3 user=user15 src=10.1.8.42 method=SecurID result=OK
+2026-03-03T03:00:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_TIMEOUT
+2026-03-03T03:01:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
+2026-03-03T03:02:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
+2026-03-03T03:03:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_TIMEOUT
+2026-03-03T03:04:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
+2026-03-03T03:05:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
+2026-03-03T03:06:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_TIMEOUT
+2026-03-03T03:07:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
+2026-03-03T03:08:00Z auth-node-1 user=user17 src=203.0.113.50 method=Push result=FAIL reason=PUSH_DENIED
